@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramadina Ainirizqi</h1>
 <h3 align="center">Back-end developer from Bandung, Indonesia.</h3>
 
-- 👨‍💻 All of my projects : 
+- 👨‍💻 Projects I'm involved in : 
   - [https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject](https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject)
   - [https://github.com/GROUP-1-FASE-3/Backend](https://github.com/GROUP-1-FASE-3/Backend)
   - [https://github.com/GP2-Group5/Backend-API](https://github.com/GP2-Group5/Backend-API)
