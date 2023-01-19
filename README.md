@@ -3,7 +3,7 @@
 
 - 👨‍💻 Projects I was involved in : 
   - [https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject](https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject)
-  - [https://github.com/GROUP-1-FASE-3/Backend](https://github.com/GROUP-1-FASE-3/Backend)
+  - [https://github.com/StayApp-Project/Backend](https://github.com/StayApp-Project/Backend)
   - [https://github.com/GP2-Group5/Backend-API](https://github.com/GP2-Group5/Backend-API)
 
 
