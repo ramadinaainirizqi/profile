@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramadina Ainirizqi</h1>
 <h3 align="center">Back-end developer from Bandung, Indonesia.</h3>
 
+I am a Back-end developer who has recently finished Alterra Academy’s Back-end engineering program. I have project experiences and the skills to build a back-end system of a website using Go and its libraries, MySQL, Cloud Service, and third-party APIs.
+
+
 - 👨‍💻 Projects I was involved in : 
   - [https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject](https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject)
   - [https://github.com/StayApp-Project/Backend](https://github.com/StayApp-Project/Backend)
