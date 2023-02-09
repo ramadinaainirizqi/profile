@@ -11,11 +11,11 @@ I am a Back-end developer who has recently finished Alterra Academy’s Back-end
     
   - [https://github.com/StayApp-Project/Backend](https://github.com/StayApp-Project/Backend)
   
-  This project was developed to connect users to a homestay of their preference.  Users can look up properties, create a booking, put a property up for rent, and check property availability. This project contains the following techs: Go Language, MySQL, Gorm, Echo, AWS, deployed using GitHub action to the server and runs on Docker.
+    This project was developed to connect users to a homestay of their preference.  Users can look up properties, create a booking, put a property up for rent, and check property availability. This project contains the following techs: Go Language, MySQL, Gorm, Echo, AWS, deployed using GitHub action to the server and runs on Docker.
   
   - [https://github.com/GP2-Group5/Backend-API](https://github.com/GP2-Group5/Backend-API)
 
-  This website is developed for information-management systems. Users are able to manage information regarding students, mentors and classes.  This project contains the following techs: Go Language, MySQL, Gorm, Echo, AWS, deployed using GitHub action to the server and runs on Docker.
+    This website is developed for information-management systems. Users are able to manage information regarding students, mentors and classes.  This project contains the following techs: Go Language, MySQL, Gorm, Echo, AWS, deployed using GitHub action to the server and runs on Docker.
 
 
 
