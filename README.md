@@ -6,9 +6,16 @@ I am a Back-end developer who has recently finished Alterra Academy’s Back-end
 
 - 👨‍💻 Projects I was involved in : 
   - [https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject](https://github.com/Capstone-Project-Group3-Ikuzports/BE-Ikuzports-CapstoneProject)
+  
     This website was developed to build a community by connecting people with similar sports interests, gathering them in a club or event and allowing them to create various sports activities they can do together. One of the website’s features enables the users to put their equipment or collections up for sale. The techs used in this project are Go Language, MySQL, Gorm, Echo, GCP, AWS S3, deployed using github action into the GCP VM instances and runs on Docker. This web also connects to third-party APIs such as Google Oauth2 for easier user registration and login and Midtrans for payment gateway.
+    
   - [https://github.com/StayApp-Project/Backend](https://github.com/StayApp-Project/Backend)
+  
+  This project was developed to connect users to a homestay of their preference.  Users can look up properties, create a booking, put a property up for rent, and check property availability. This project contains the following techs: Go Language, MySQL, Gorm, Echo, AWS, deployed using GitHub action to the server and runs on Docker.
+  
   - [https://github.com/GP2-Group5/Backend-API](https://github.com/GP2-Group5/Backend-API)
+
+  This website is developed for information-management systems. Users are able to manage information regarding students, mentors and classes.  This project contains the following techs: Go Language, MySQL, Gorm, Echo, AWS, deployed using GitHub action to the server and runs on Docker.
 
 
 
